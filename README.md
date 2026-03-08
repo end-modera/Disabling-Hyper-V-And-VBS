@@ -3,7 +3,7 @@
 
 > [!WARNING]
 > ### 🛑 CRITICAL STEP: REMOVE YOUR PASSWORD
-> You **MUST** remove your Windows PIN, Password,Face ID / Windows Hello **BEFORE** running this script. If you skip this, you could potentional  be locked out of your account after the reboot.
+> You **MUST** remove your Windows PIN,Face ID / Windows Hello **BEFORE** running this script. If you skip this, you could potentional  be locked out of your account after the reboot.
 
 ---
 
@@ -53,7 +53,7 @@ Press **[ ANY KEY ]** (Spacebar, Enter, etc.) to finish the process and boot int
 
 > [!WARNING]
 > ### 🛑 КРИТИЧЕСКИЙ ШАГ: УДАЛИТЕ ВАШ ПАРОЛЬ
-> Вы **ОБЯЗАНЫ** удалить ваш Windows PIN-код, пароль, Face ID / Windows Hello **ПЕРЕД** запуском этого скрипта. Если вы пропустите этот шаг, вы можете потенциально потерять доступ к своей учетной записи после перезагрузки.
+> Вы **ОБЯЗАНЫ** удалить ваш Windows PIN-код, Face ID / Windows Hello **ПЕРЕД** запуском этого скрипта. Если вы пропустите этот шаг, вы можете потенциально потерять доступ к своей учетной записи после перезагрузки.
 
 ---
 
