@@ -15,7 +15,7 @@
 **Download** [dgreadiness_v3.6](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/dgreadiness_v3.6.1.zip)
 
 
-**1.Run** **RunMe.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!**
+**1.Run** **DisableAll.bat If it's didn't solve and you didn't got all green status in System move to step 2!!!**
 **After restart don't forget to press F3, accept changes.**
 
 
@@ -63,7 +63,7 @@ Press **[ ANY KEY ]** (Spacebar, Enter, etc.) to finish the process and boot int
 
 **Скачать** [dgreadiness_v3.6](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/dgreadiness_v3.6.1.zip)
 
-**1. Запустите** **RunMe.bat. Если это не решило проблему и вы не получили все зеленые статусы в Системе, перейдите к шагу 2!!!**
+**1. Запустите** **DisableAll.bat. Если это не решило проблему и вы не получили все зеленые статусы в Системе, перейдите к шагу 2!!!**
 **После перезагрузки не забудьте нажать F3, чтобы принять изменения.**
 
 <img width="1050" height="670" alt="2026-02-10_18-10-46" src="https://github.com/user-attachments/assets/126c6522-6ac0-4eec-837c-2e7e6d535cdc" />
