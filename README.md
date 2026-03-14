@@ -12,7 +12,7 @@
 
 ## 🚀 How to Use
 
-**Download** [dgreadiness_v3.6](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/dgreadiness_v3.6.5.zip)
+**Download** [DisableHyperVandVBZ](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/DisableHyperVandVBZ.zip)
 
 
 **1.Run** **DisableAll.bat.**
@@ -61,7 +61,7 @@ Press **[ ANY KEY ]** (Spacebar, Enter, etc.) to finish the process and boot int
 
 ## 🚀 Как использовать
 
-**Скачать** [dgreadiness_v3.6](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/dgreadiness_v3.6.5.zip)
+**Скачать** [DisableHyperVandVBZ](https://github.com/end-modera/Disabling-Hyper-V-And-VBS/releases/download/Disabling-Hyper-V-And-VBS/DisableHyperVandVBZ.zip)
 
 **1. Запустите** **DisableAll.bat.**
 **После перезагрузки не забудьте нажать F3, чтобы принять изменения.**
